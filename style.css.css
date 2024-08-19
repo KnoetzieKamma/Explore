@@ -954,13 +954,7 @@ padding: 15px 0 25px;
       }
     .music-player{
         background: #D3D3D3;
-        width: 1880px;
+        width: 670px;
         padding: 5px 10px;
         text-align: left;
-    }
-
- @media (max-width: 500px) {
-    .music-player {
-      align-items: flex-start;
-      justify-content: flex-start;
     }
