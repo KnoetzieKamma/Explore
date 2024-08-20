@@ -79,6 +79,8 @@ color: #fff;}
     background: transparent;
     position: relative;
     cursor: pointer;
+    font-style: normal;
+    font-family: "Arial Black", sans-serif;
     
 }
 
