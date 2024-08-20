@@ -38,6 +38,8 @@ nav img{
     color: #fff;
     text-decoration: none;
     font-size: 13px;
+    font-style: normal;
+    font-family: "Arial Black", sans-serif;
 }
 .nav-links ul li::after{
     content: '';
