@@ -363,6 +363,7 @@ padding: 15px 0 25px;
     width: 80%;
     margin: auto;
     padding: 60px 0;
+    color: #222;
 }
 .blog-left{
     flex-basis: 65%;
