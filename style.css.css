@@ -367,9 +367,7 @@ padding: 15px 0 25px;
 .blog-left{
     flex-basis: 65%;
 }
-.blog-left img{
-    width: 50%;
-}
+
 .blog-left h2{
     color: #222;
     font-weight: 600;
@@ -1064,6 +1062,9 @@ font-size: 26px;
 .st{
 width: 20%;
 transition: 2s;
+}
+.st img{
+    width: 50%;
 }
 
 .nav-m{
