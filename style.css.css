@@ -403,12 +403,14 @@ transition: 2s;
     margin-top: -40px;
     justify-content: center;
     display: flex;
+      
 }
 .m-btn{
     border: 2px solid #373c4f;
     padding: 5px;
     border-radius: 10px;
     cursor: pointer;
+     transition: 1s;
 }
 .m-btn:not(:last-child){
     margin-right: 30px;
@@ -441,7 +443,7 @@ transition: 2s;
    border: 2px solid #373c4f;
     padding: 5px;
     border-radius: 10px;
-    transition: 1s;
+ 
 }
 
 
@@ -460,6 +462,9 @@ transition: 2s;
     background-color: #373c4f;
 }
 #radio4:checked ~ .nav-auto .a-b4{
+    background-color: #373c4f;
+}
+#radio5:checked ~ .nav-auto .a-b5{
     background-color: #373c4f;
 }
 
