@@ -1046,6 +1046,12 @@ font-size: 26px;
     
     width: 55%}
 }
+.section{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+}
 .slider{
     width: 800px;
     height: 500px;
