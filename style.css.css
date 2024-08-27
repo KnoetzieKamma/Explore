@@ -464,6 +464,22 @@ transition: 2s;
 #radio19:checked ~.first{
     margin-left: -80%;
 }
+#radio22:checked ~.first{
+    margin-left: 0;
+}
+#radio29:checked ~.first{
+    margin-left: -20%;
+}
+#radio30:checked ~.first{
+    margin-left: -40%;
+}
+
+#radio23:checked ~.first{
+    margin-left: -60%;
+}
+#radio38:checked ~.first{
+    margin-left: -80%;
+}
 
 .nav-auto{
     position: absolute;
@@ -525,6 +541,21 @@ transition: 2s;
     background-color: #373c4f;
 }
 #radio19:checked ~ .nav-auto .a-b19{
+    background-color: #373c4f;
+}
+#radio22:checked ~ .nav-auto .a-b22{
+    background-color: #373c4f;
+}
+#radio29:checked ~ .nav-auto .a-b29{
+    background-color: #373c4f;
+}
+#radio30:checked ~ .nav-auto .a-b30{
+    background-color: #373c4f;
+}
+#radio23:checked ~ .nav-auto .a-b23{
+    background-color: #373c4f;
+}
+#radio38:checked ~ .nav-auto .a-b38{
     background-color: #373c4f;
 }
 
