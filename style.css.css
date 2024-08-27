@@ -432,6 +432,9 @@ transition: 2s;
 #radio4:checked ~.first{
     margin-left: -60%;
 }
+#radio5:checked ~.first{
+    margin-left: -80%;
+}
 .nav-auto{
     position: absolute;
     width: 800px;
