@@ -1064,7 +1064,8 @@ width: 20%;
 transition: 2s;
 }
 .st img{
-    width: 50%;
+   width: 800px;
+    height: 500px;
 }
 
 .nav-m{
