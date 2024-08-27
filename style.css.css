@@ -375,6 +375,8 @@ padding: 15px 0 25px;
 }
 
 .slider{
+    width: 800px;
+    height: 500px;
     border-radius: 10px;
     overflow: hidden;
 }
