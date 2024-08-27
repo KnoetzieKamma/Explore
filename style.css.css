@@ -446,7 +446,7 @@ transition: 2s;
 }
 
 
-.nav-auto div::not(:last-child){
+.nav-auto div:not(:last-child){
     margin-right: 30px;
     justify-content: center;
 }
