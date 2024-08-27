@@ -386,7 +386,9 @@ padding: 15px 0 25px;
     height: 500px;
     display: flex;
 }
-
+.slide input{
+    display: none;
+}
 .st{
 width: 80%;
 transition: 2s;
