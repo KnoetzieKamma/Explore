@@ -367,21 +367,19 @@ padding: 15px 0 25px;
 .blog-left{
     flex-basis: 65%;
 }
+.blog-left input{
+    display: none;
+}
 .blog-left img{
     width: 50%;
 }
-.slider{
-    width: 80%;
-    height: 50%;
-}
+
 .slide{
     width: 50%;
     height: 500px;
     display: flex;
 }
-.slide input{
-    display: none;
-}
+
 .st{
 width: 80%;
 transition: 2s;
