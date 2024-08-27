@@ -367,9 +367,7 @@ padding: 15px 0 25px;
 .blog-left{
     flex-basis: 65%;
 }
-.blog-left input{
-    display: none;
-}
+
 
 
 .slider{
