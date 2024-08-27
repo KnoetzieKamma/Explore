@@ -433,10 +433,10 @@ transition: 2s;
     margin-left: -60%;
 }
 #radio7:checked ~.first{
-    margin-left: -0%;
+    margin-left: -0;
 }
 #radio8:checked ~.first{
-    margin-left: 20;
+    margin-left: -20%;
 }
 #radio9:checked ~.first{
     margin-left: -40%;
