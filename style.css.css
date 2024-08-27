@@ -512,19 +512,19 @@ transition: 2s;
 #radio13:checked ~ .nav-auto .a-b13{
     background-color: #373c4f;
 }
-#radio7:checked ~ .nav-auto .a-b15{
+#radio15:checked ~ .nav-auto .a-b15{
     background-color: #373c4f;
 }
-#radio8:checked ~ .nav-auto .a-b16{
+#radio16:checked ~ .nav-auto .a-b16{
     background-color: #373c4f;
 }
-#radio9:checked ~ .nav-auto .a-b17{
+#radio17:checked ~ .nav-auto .a-b17{
     background-color: #373c4f;
 }
-#radio10:checked ~ .nav-auto .a-b18{
+#radio18:checked ~ .nav-auto .a-b18{
     background-color: #373c4f;
 }
-#radio13:checked ~ .nav-auto .a-b19{
+#radio19:checked ~ .nav-auto .a-b19{
     background-color: #373c4f;
 }
 
