@@ -368,8 +368,7 @@ padding: 15px 0 25px;
     flex-basis: 65%;
 }
 .blog-left img{
-  width: 800px;
-height: 500px;
+    width: 50%;
 }
 
 .blog-left h2{
