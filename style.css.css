@@ -374,6 +374,11 @@ padding: 15px 0 25px;
     width: 50%;
 }
 
+.slider{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
 .slide{
     width: 50%;
     height: 500px;
