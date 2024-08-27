@@ -1046,6 +1046,18 @@ font-size: 26px;
     
     width: 55%}
 }
+.slider{
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.slide{
+    width: 500%;
+    height: 500px;
+    display: flex;
+}
+
 .slide input{
     display: none;
 }
