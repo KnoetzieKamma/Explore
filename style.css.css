@@ -433,20 +433,20 @@ transition: 2s;
     margin-left: -60%;
 }
 #radio7:checked ~.first{
-    margin-left: -80%;
+    margin-left: -0%;
 }
 #radio8:checked ~.first{
-    margin-left: 0;
+    margin-left: 20;
 }
 #radio9:checked ~.first{
-    margin-left: -20%;
+    margin-left: -40%;
 }
 #radio10:checked ~.first{
-    margin-left: -40%;
+    margin-left: -60%;
 }
 
 #radio13:checked ~.first{
-    margin-left: -60%;
+    margin-left: -80%;
 }
 
 .nav-auto{
