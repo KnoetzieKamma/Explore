@@ -368,11 +368,7 @@ padding: 15px 0 25px;
     flex-basis: 65%;
 }
 
-@media(max-width:750px){
-    .st img{
-        width: 100%;
-    }
-}
+
 
         width: 100%;
     }
