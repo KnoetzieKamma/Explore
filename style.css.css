@@ -1305,7 +1305,7 @@ font-weight: 500;
 overflow: hidden;
 font-weight: 500;
 }
-.collapsable1 input{
+.collapsible1 input{
     display: none;
 }
 
@@ -1363,7 +1363,7 @@ font-weight: 500;
 overflow: hidden;
 font-weight: 500;
 }
-.collapsable2 input{
+.collapsible2 input{
     display: none;
 }
 
@@ -1422,7 +1422,7 @@ font-weight: 500;
 overflow: hidden;
 font-weight: 500;
 }
-.collapsable3 input{
+.collapsible3 input{
     display: none;
 }
 .collapsible3 label{
