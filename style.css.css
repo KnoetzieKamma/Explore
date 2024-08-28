@@ -1385,7 +1385,7 @@ font-weight: 500;
 }
   
 }
-.collapsible1 input:checked + label:after{
+.collapsible2 input:checked + label:after{
    transform: rotate(90deg);
 }
 
