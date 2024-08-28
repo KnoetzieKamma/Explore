@@ -1241,6 +1241,7 @@ font-size: 26px;
     
     width: 55%}
 }
+
 .collapsable{
  max-width: 450px;
 overflow: hidden;
@@ -1287,7 +1288,7 @@ font-weight: 500;
     opacity: 0.5;
     transition: all 0.3s ease;
 }
-.collapsible input:checked ~.collapsible-text{
+.collapsible input:checked ~ .collapsible-text{
     
     max-height: 1500px;
     padding-bottom: 25px;
