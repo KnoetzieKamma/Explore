@@ -412,9 +412,10 @@ width: 20%;
     cursor: pointer;
     transition: 0.4s;
 }
-input[name="radio-btn"{
+input[name="radio-btn"]{
     position: aboslute;
     visability: hidden;}
+
 .m-btn:not(:last-child){
     margin-right: 30px;
 }
