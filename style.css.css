@@ -414,7 +414,7 @@ width: 20%;
 }
 input[name="radio-btn"]{
     position: aboslute;
-    visability: hidden;}
+    visibility: hidden;}
 
 .m-btn:not(:last-child){
     margin-right: 30px;
