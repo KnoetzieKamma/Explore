@@ -1252,16 +1252,19 @@ font-weight: 500;
 }
 .collapsible label{
     position: relative;
-    font-weight: 600;
+    font-weight: 500;
     background: #fff;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0,0, .08);
     color: #373c4f;
     display: block;
-    margin-bottom: 10px;
     cursor: pointer;
-    padding: 15px 0;
-    border-radius: 4px;
-    z-index: 1;
+    padding: 20px 0;
+    border-radius: 5px;
+    z-index: 10;
+    background: #878895;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 
@@ -1310,16 +1313,19 @@ font-weight: 500;
 }
 .collapsible1 label{
     position: relative;
-    font-weight: 600;
+    font-weight: 500;
     background: #fff;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0,0, .08);
     color: #373c4f;
     display: block;
-    margin-bottom: 10px;
     cursor: pointer;
-    padding: 15px 0;
-    border-radius: 4px;
-    z-index: 1;
+    padding: 20px 0;
+    border-radius: 5px;
+    z-index: 10;
+    background: #878895;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 
@@ -1370,16 +1376,19 @@ font-weight: 500;
 
 .collapsible2 label{
     position: relative;
-    font-weight: 600;
+    font-weight: 500;
     background: #fff;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0,0, .08);
     color: #373c4f;
     display: block;
-    margin-bottom: 10px;
     cursor: pointer;
-    padding: 15px 0;
-    border-radius: 4px;
-    z-index: 1;
+    padding: 20px 0;
+    border-radius: 5px;
+    z-index: 10;
+    background: #878895;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 
@@ -1428,16 +1437,19 @@ font-weight: 500;
 }
 .collapsible3 label{
     position: relative;
-    font-weight: 600;
+    font-weight: 500;
     background: #fff;
     box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .1), 0 4px 11px 0 rgba(0, 0,0, .08);
     color: #373c4f;
     display: block;
-    margin-bottom: 10px;
     cursor: pointer;
-    padding: 15px 0;
-    border-radius: 4px;
-    z-index: 1;
+    padding: 20px 0;
+    border-radius: 5px;
+    z-index: 10;
+    background: #878895;
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 
