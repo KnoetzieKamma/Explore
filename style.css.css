@@ -1308,7 +1308,6 @@ font-weight: 500;
 .collapsible1 input{
     display: none;
 }
-
 .collapsible1 label{
     position: relative;
     font-weight: 600;
@@ -1358,6 +1357,8 @@ font-weight: 500;
     opacity: 1;
     top: 0;
 }
+
+
 .collapsable2{
  max-width: 450px;
 overflow: hidden;
