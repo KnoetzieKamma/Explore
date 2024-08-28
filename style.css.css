@@ -1298,7 +1298,7 @@ font-weight: 500;
     top: 0;
 }
 
-.collapsible1 {
+.collapsable1{
  max-width: 450px;
 overflow: hidden;
 font-weight: 500;
@@ -1334,7 +1334,7 @@ font-weight: 500;
    transform: rotate(90deg);
 }
 
-.collapsible1-text1 {
+.collapsible1-text {
     max-height: 1px;
     overflow: hidden;
     border-radius: 10px;
@@ -1344,7 +1344,7 @@ font-weight: 500;
     opacity: 0.5;
     transition: all 0.3s ease;
 }
-.collapsible1 input:checked ~ .collapsible1-text1{
+.collapsible1 input:checked ~ .collapsible1-text{
     
     max-height: 1500px;
     padding-bottom: 25px;
@@ -1353,4 +1353,3 @@ font-weight: 500;
     opacity: 1;
     top: 0;
 }
-
