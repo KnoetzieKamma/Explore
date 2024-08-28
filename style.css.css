@@ -1297,11 +1297,13 @@ font-weight: 500;
     opacity: 1;
     top: 0;
 }
+
 .collapsable1{
  max-width: 450px;
 overflow: hidden;
 font-weight: 500;
 }
+
 .collapsible1 label{
     position: relative;
     font-weight: 600;
@@ -1315,6 +1317,8 @@ font-weight: 500;
     border-radius: 4px;
     z-index: 1;
 }
+
+
 .collapsible1 label:after{
     content: "";
     position: absolute;
@@ -1324,10 +1328,23 @@ font-weight: 500;
     height: 18px;
     transition: all 0.3s ease;
 }
+  
+}
 .collapsible1 input:checked + label:after{
    transform: rotate(90deg);
 }
-.collapsible1 input:checked ~ .collapsible-text{
+
+.collapsible-text1 {
+    max-height: 1px;
+    overflow: hidden;
+    border-radius: 10px;
+    line-height: 1;
+    position: relative;
+    top: -100%;
+    opacity: 0.5;
+    transition: all 0.3s ease;
+}
+.collapsible1 input:checked ~ .collapsible-text1{
     
     max-height: 1500px;
     padding-bottom: 25px;
@@ -1336,3 +1353,4 @@ font-weight: 500;
     opacity: 1;
     top: 0;
 }
+
