@@ -1248,9 +1248,8 @@ overflow: hidden;
 font-weight: 500;
 }
 .collapsable input{
-    
-    display: none;}
-
+    display: none;
+}
 .collapsible label{
     position: relative;
     font-weight: 600;
@@ -1307,8 +1306,8 @@ overflow: hidden;
 font-weight: 500;
 }
 .collapsable1 input{
-    
-    display: none;}
+    display: none;
+}
 
 .collapsible1 label{
     position: relative;
@@ -1365,8 +1364,8 @@ overflow: hidden;
 font-weight: 500;
 }
 .collapsable2 input{
-    
-    display: none;}
+    display: none;
+}
 
 .collapsible2 label{
     position: relative;
@@ -1424,8 +1423,8 @@ overflow: hidden;
 font-weight: 500;
 }
 .collapsable3 input{
-    
-    display: none;}
+    display: none;
+}
 
 .collapsible3 label{
     position: relative;
