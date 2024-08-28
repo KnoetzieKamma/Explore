@@ -1266,11 +1266,18 @@ font-weight: 500;
     top: 20px;
     width: 18px;
     height: 18px;
-    background: url(arrow.svg) no-repeat 0 0;
+   background: url(arrow.svg) no-repeat 0 0;
 }
 .collapsible-text {
     max-height: 1px;
     overflow: hidden;
     border-radius: 4px;
     line-height: 1.4;
+}
+.collapsible .collapsible-text{
+    
+    max-height: 300px;
+    padding-bottom: 25px;
+    background: #fff;
+    box-shadow: box-shadow: 0 5px 11px 0 rgba(0,0,0, 0.1), 0 4px 11px 0 rgba(0, 0,0, 0.08);
 }
