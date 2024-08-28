@@ -406,17 +406,18 @@ transition: 2s;
       
 }
 .m-btn{
-    border: 2px solid #373c4f;
-    padding: 5px;
-    border-radius: 10px;
+    width: 50px;
+    height: 10px;
+    border: 2px solid #fff;
+    margin: 6px;
     cursor: pointer;
-     transition: 1s;
+    transition: 0.4s;
 }
 .m-btn:not(:last-child){
     margin-right: 30px;
 }
 .m-btn:hover{
-    background-color: #373c4f;
+    background-color: #fff;
 }
 
 #radio1:checked ~.first{
