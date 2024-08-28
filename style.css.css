@@ -1247,7 +1247,7 @@ font-size: 26px;
 overflow: hidden;
 font-weight: 500;
 }
-.collapsable input{
+.collapsible input{
     display: none;
 }
 .collapsible label{
