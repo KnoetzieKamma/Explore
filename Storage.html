@@ -157,7 +157,7 @@
         <div class="about-col">
                 
        <div class="row">
-            <div class="Act">
+            <div class="Act1">
                 <img src="Images/69.jpg">
       <h3>Business Hours</h3>
                  <p>Monday – Friday: 7:00am ~ 6:00pm</p>
@@ -252,10 +252,10 @@ const notify = document.querySelector(".notifyinput");
         USERID.name = userName.value;
         if(USERID.name === "Anonymous") {
             USERID.identity = false;
-            USERID.image = "anonymous.png"
+            USERID.image = "Images/anonymous.png"
         }else {
             USERID.identity = true;
-            USERID.image = "user.png"
+            USERID.image = "Images/user.png"
         }
 
         USERID.message = userComment.value;
@@ -266,7 +266,7 @@ const notify = document.querySelector(".notifyinput");
             <div>
                 <h1>${USERID.name}</h1>
                 <p>${USERID.message}</p>
-                <div class="engagements"><img src="like.png" id="like"><img src="share.png" alt=""></div>
+                <div class="engagements"><img src="Images/like.png" id="like"><img src="Images/share.png" alt=""></div>
                 <span class="date">${USERID.date}</span>
             </div>    
         </div>`
