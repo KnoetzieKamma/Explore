@@ -1516,7 +1516,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     overflow: hidden;
 
 
- body {
+body {
     position: relative;
     min-height: 100vh;
     display: flex;
@@ -1524,8 +1524,9 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     align-items: center;
     background: #f2f2f2;
     /* background: #353935; */
- }       
-.container2 {
+}
+
+.container 1{
     background: #fff;
     padding: 20px;
     font-family: monospace;
@@ -1544,13 +1545,13 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     font-size: 0.9em;
 }
 
-.commentbox2 {
+.commentbox {
     display: flex;
     justify-content: space-around;
     padding: 10px;
 }
 
-.commentbox2 > img {
+.commentbox > img {
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -1560,7 +1561,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     object-position: center;
 }
 
-.content2 {
+.content {
     width: 100%;
 }
 
@@ -1573,7 +1574,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     padding: 10px;
 }
 
-.commentinput2 > input {
+.commentinput > input {
     border: none;
     padding: 10px;
     padding-left: 0;
@@ -1772,3 +1773,7 @@ DE3163
 #353935
 28282B
 
+
+
+
+*/
