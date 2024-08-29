@@ -1495,13 +1495,20 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     }
 }
 
-    .Act1{
-    flex-basis: 100%;
+   .Act1:Hover{
+    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+
+.Act1{
+    flex-basis: 32%;
     border-radius: 10px;
     margin-bottom: 30px;
     position: relative;
-        overflow: hidden;
-    }
+    overflow: hidden;
+}
+.Act1 img{
+    width: 85%;
+}
 
 
 .container1 {
