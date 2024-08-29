@@ -529,7 +529,7 @@ input[name="radio-btn"]{
     padding: 8px;
     box-sizing: border-box;
 }
-.Comment-box{
+.Comment-box2{
     border: 1px solid #ccc;
     margin: 50px 0;
     padding: 10px 20px; 
@@ -1525,13 +1525,13 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     font-size: 0.9em;
 }
 
-.commentbox2 {
+.commentbox {
     display: flex;
     justify-content: space-around;
     padding: 10px;
 }
 
-.commentbox2 > img {
+.commentbox > img {
     width: 40px;
     height: 40px;
     border-radius: 50%;
@@ -1541,7 +1541,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     object-position: center;
 }
 
-.content2 {
+.content {
     width: 100%;
 }
 
