@@ -1481,18 +1481,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0,212,255,0.7)100%), url('Images/43.jpg');
     
 }
-@media(max-width: 700px){
-    
 
-   .content-box1{
-        flex-direction: column;
-        width: 100%;
-    }
-    .card1{
-        min-width: 300px;
-        margin: 10px auto;
-    }
-}
 body {
     position: relative;
     min-height: 100vh;
