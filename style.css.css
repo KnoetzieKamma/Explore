@@ -1515,7 +1515,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     position: relative;
     overflow: hidden;
 
-.container1 {
+.container2 {
     background: #fff;
     padding: 20px;
     font-family: monospace;
@@ -1534,13 +1534,13 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     font-size: 0.9em;
 }
 
-.commentbox2 {
+.commentbox {
     display: flex;
     justify-content: space-around;
     padding: 10px;
 }
 
-.commentbox2 > img {
+.commentbox > img {
     width: 40px;
     height: 40px;
     border-radius: 50%;
