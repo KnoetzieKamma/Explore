@@ -368,6 +368,106 @@ padding: 15px 0 25px;
     flex-basis: 65%;
 }
 
+.Wrapper{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #fafafa;
+    padding-top: 35px;
+    font-family: 'roboto',sans-serif;
+}
+
+.Wrapper h1{
+    font-size: 3em;
+    margin-bottom: 15px;
+    padding: 5px 15px;
+}
+.content-box{
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 35px;
+}
+.card{
+    min-height: 300px;
+    width: 200px;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+    background: #fff;
+    margin: 10px 5px;
+    transition: 0.3a
+}
+
+
+
+.card i{
+    margin-bottom: 20px;
+}
+.card h2{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.card p{
+    color: #6c757d;
+    text-align: center;
+}
+.card:hover {
+background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0,212,255,0.7)100%), url('Images/43.jpg');
+    opacity: 0.7;
+    color: #fff;
+}
+.card:hover p{
+    color: #fff;
+}
+.card:hover i{
+    color: #fff
+}
+
+
+.card:nth-child(2):hover{
+    background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0,212,255,0.7)100%), url('Images/43.jpg');
+    
+}
+@media(max-width: 991px){
+    
+
+.Wrapper h1{
+    font-size: 2.5rem;
+}
+    .content-box{
+        flex-direction: column;
+        width: 100%;
+    }
+    .card{
+        min-width: 300px;
+        margin: 10px auto;
+    }
+    .Act1{
+    flex-basis: 100%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+
+
+body {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f2f2f2;
+    /* background: #353935; */
+}
 
 
 
