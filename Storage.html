@@ -216,7 +216,7 @@ Weekends and Public Holidays : 9:00am ~ 3:00pm</p>
     
     </script>
 
- <script>
+<script>
 
 
 
@@ -249,10 +249,10 @@ const notify = document.querySelector(".notifyinput");
         USERID.name = userName.value;
         if(USERID.name === "Anonymous") {
             USERID.identity = false;
-            USERID.image = "Images/anonymous.png"
+            USERID.image = "anonymous.png"
         }else {
             USERID.identity = true;
-            USERID.image = "Images/user.png"
+            USERID.image = "user.png"
         }
 
         USERID.message = userComment.value;
@@ -263,7 +263,7 @@ const notify = document.querySelector(".notifyinput");
             <div>
                 <h1>${USERID.name}</h1>
                 <p>${USERID.message}</p>
-                <div class="engagements"><img src="Images/like.png" id="like"><img src="Images/share.png" alt=""></div>
+                <div class="engagements"><img src="like.png" id="like"><img src="share.png" alt=""></div>
                 <span class="date">${USERID.date}</span>
             </div>    
         </div>`
