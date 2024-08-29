@@ -340,7 +340,7 @@ h6{
 }
 .sub-header1{
     height: 50vh;
-    width: 100%;
+    width: 80%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/69.jpg);
     background-position: center;
     background-size: cover;
@@ -1066,14 +1066,14 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     }
 }
 .Act2{
-    flex-basis: 32%;
+    flex-basis: 25%;
     border-radius: 10px;
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
 }
 .Act2 img{
-    width: 85%;
+    width: 50%;
 }
  
 
