@@ -557,7 +557,9 @@ input[name="radio-btn"]{
     flex-basis: 32%;
 }
 .blog-right h3{
-    background: #878895;
+    background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0,212,255,0.7)100%), url('Images/43.jpg');
+    opacity: 0.7;
+    color: #fff;
     padding: 7px 0;
     font-size: 16px;
     margin-bottom: 20px;
