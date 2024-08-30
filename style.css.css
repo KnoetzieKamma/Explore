@@ -336,7 +336,7 @@ h6{
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/55.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: auto;
     text-align: center;
     color: #fff;
 }
@@ -345,7 +345,7 @@ h6{
     margin-top: 100px;
 }
 .sub-header1{
-   min-height: 100vh;
+   min-height: 50vh;
         width: 100%;
         background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/69.jpg);
         background-position: center;
