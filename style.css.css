@@ -349,7 +349,7 @@ h6{
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/69.jpg);
     background-position: center;
-    background-size: auto;
+    background-size: cover;
     text-align: center;
     color: #fff
 }
