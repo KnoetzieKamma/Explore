@@ -1067,7 +1067,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     }
 }
 .Act2{
-    flex-basis: 35%;
+    flex-basis: 50%;
     border-radius: 10px;
     margin-bottom: 30px;
     position: relative;
