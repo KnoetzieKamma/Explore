@@ -1243,7 +1243,7 @@ background: linear-gradient(90deg,rgba(2,2,36,0.7)0%,rgba(9,9,221,0.7)35%,rgba(0
     font-size: 0.8em;
 }
 .about-col2{
-   flex-basis: 66%;
+   flex-basis: 80%;
     padding: 30px 2px;
 }
 
