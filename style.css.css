@@ -1341,5 +1341,12 @@ DE3163
 #353935
 28282B
 
+.about-col2{
+   flex-basis: 66%;
+    padding: 30px 2px;
+}
 
+.about-col2 img{
+    
+    width: 100%}
 
