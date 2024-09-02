@@ -4,7 +4,7 @@ $visitor_email = $_Post['email'];
 $subject = $_Post['subject'];
 $message = $_Post['message'];
 
-$email_from = 'knoetziekamma.com';
+$email_from = 'info@knoetziekamma.com';
 
 $email_subject = 'Knoetzie Kamma Enquery';
     
